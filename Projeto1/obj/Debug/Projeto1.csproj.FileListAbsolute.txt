@@ -1,0 +1,47 @@
+C:\Users\Professor\Desktop\Aula4\Projeto1\bin\Debug\Projeto1.exe.config
+C:\Users\Professor\Desktop\Aula4\Projeto1\bin\Debug\Projeto1.exe
+C:\Users\Professor\Desktop\Aula4\Projeto1\bin\Debug\Projeto1.pdb
+C:\Users\Professor\Desktop\Aula4\Projeto1\obj\Debug\Projeto1.csprojResolveAssemblyReference.cache
+C:\Users\Professor\Desktop\Aula4\Projeto1\obj\Debug\Projeto1.frmPessoa.resources
+C:\Users\Professor\Desktop\Aula4\Projeto1\obj\Debug\Projeto1.Properties.Resources.resources
+C:\Users\Professor\Desktop\Aula4\Projeto1\obj\Debug\Projeto1.csproj.GenerateResource.Cache
+C:\Users\Professor\Desktop\Aula4\Projeto1\obj\Debug\Projeto1.exe
+C:\Users\Professor\Desktop\Aula4\Projeto1\obj\Debug\Projeto1.pdb
+E:\Aula4\Projeto1\bin\Debug\Projeto1.exe.config
+E:\Aula4\Projeto1\obj\Debug\Projeto1.exe
+E:\Aula4\Projeto1\obj\Debug\Projeto1.pdb
+E:\Aula4\Projeto1\bin\Debug\Projeto1.exe
+E:\Aula4\Projeto1\bin\Debug\Projeto1.pdb
+E:\Aula4\Projeto1\obj\Debug\Projeto1.csprojResolveAssemblyReference.cache
+E:\Aula4\Projeto1\obj\Debug\Projeto1.frmPessoa.resources
+E:\Aula4\Projeto1\obj\Debug\Projeto1.Properties.Resources.resources
+E:\Aula4\Projeto1\obj\Debug\Projeto1.csproj.GenerateResource.Cache
+C:\Users\JoaoPaulo\Desktop\C#_Teste\Aula4_Foto_DeObjeto\Projeto1\bin\Debug\Projeto1.exe.config
+C:\Users\JoaoPaulo\Desktop\C#_Teste\Aula4_Foto_DeObjeto\Projeto1\obj\Debug\Projeto1.exe
+C:\Users\JoaoPaulo\Desktop\C#_Teste\Aula4_Foto_DeObjeto\Projeto1\obj\Debug\Projeto1.pdb
+C:\Users\JoaoPaulo\Desktop\C#_Teste\Aula4_Foto_DeObjeto\Projeto1\bin\Debug\Projeto1.exe
+C:\Users\JoaoPaulo\Desktop\C#_Teste\Aula4_Foto_DeObjeto\Projeto1\bin\Debug\Projeto1.pdb
+C:\Users\JoaoPaulo\Desktop\C#_Teste\Aula4_Foto_DeObjeto\Projeto1\obj\Debug\Projeto1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoPaulo\Desktop\C#_Teste\Aula4_Foto_DeObjeto\Projeto1\obj\Debug\Projeto1.frmPessoa.resources
+C:\Users\JoaoPaulo\Desktop\C#_Teste\Aula4_Foto_DeObjeto\Projeto1\obj\Debug\Projeto1.Properties.Resources.resources
+C:\Users\JoaoPaulo\Desktop\C#_Teste\Aula4_Foto_DeObjeto\Projeto1\obj\Debug\Projeto1.csproj.GenerateResource.Cache
+D:\Computação\4ºperiodo\4Periodo_C#\Aula4_Foto_DeObjeto\Projeto1\bin\Debug\Projeto1.exe.config
+D:\Computação\4ºperiodo\4Periodo_C#\Aula4_Foto_DeObjeto\Projeto1\bin\Debug\Projeto1.exe
+D:\Computação\4ºperiodo\4Periodo_C#\Aula4_Foto_DeObjeto\Projeto1\bin\Debug\Projeto1.pdb
+D:\Computação\4ºperiodo\4Periodo_C#\Aula4_Foto_DeObjeto\Projeto1\obj\Debug\Projeto1.csprojAssemblyReference.cache
+D:\Computação\4ºperiodo\4Periodo_C#\Aula4_Foto_DeObjeto\Projeto1\obj\Debug\Projeto1.frmPessoa.resources
+D:\Computação\4ºperiodo\4Periodo_C#\Aula4_Foto_DeObjeto\Projeto1\obj\Debug\Projeto1.Properties.Resources.resources
+D:\Computação\4ºperiodo\4Periodo_C#\Aula4_Foto_DeObjeto\Projeto1\obj\Debug\Projeto1.csproj.GenerateResource.cache
+D:\Computação\4ºperiodo\4Periodo_C#\Aula4_Foto_DeObjeto\Projeto1\obj\Debug\Projeto1.csproj.CoreCompileInputs.cache
+D:\Computação\4ºperiodo\4Periodo_C#\Aula4_Foto_DeObjeto\Projeto1\obj\Debug\Projeto1.exe
+D:\Computação\4ºperiodo\4Periodo_C#\Aula4_Foto_DeObjeto\Projeto1\obj\Debug\Projeto1.pdb
+C:\Users\João Paulo Silva\Desktop\Trab_Processamento_Imagens\Projeto1\bin\Debug\Projeto1.exe.config
+C:\Users\João Paulo Silva\Desktop\Trab_Processamento_Imagens\Projeto1\bin\Debug\Projeto1.exe
+C:\Users\João Paulo Silva\Desktop\Trab_Processamento_Imagens\Projeto1\bin\Debug\Projeto1.pdb
+C:\Users\João Paulo Silva\Desktop\Trab_Processamento_Imagens\Projeto1\obj\Debug\Projeto1.csprojAssemblyReference.cache
+C:\Users\João Paulo Silva\Desktop\Trab_Processamento_Imagens\Projeto1\obj\Debug\Projeto1.frmPessoa.resources
+C:\Users\João Paulo Silva\Desktop\Trab_Processamento_Imagens\Projeto1\obj\Debug\Projeto1.Properties.Resources.resources
+C:\Users\João Paulo Silva\Desktop\Trab_Processamento_Imagens\Projeto1\obj\Debug\Projeto1.csproj.GenerateResource.cache
+C:\Users\João Paulo Silva\Desktop\Trab_Processamento_Imagens\Projeto1\obj\Debug\Projeto1.csproj.CoreCompileInputs.cache
+C:\Users\João Paulo Silva\Desktop\Trab_Processamento_Imagens\Projeto1\obj\Debug\Projeto1.exe
+C:\Users\João Paulo Silva\Desktop\Trab_Processamento_Imagens\Projeto1\obj\Debug\Projeto1.pdb

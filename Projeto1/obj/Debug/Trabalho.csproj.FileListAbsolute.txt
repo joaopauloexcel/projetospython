@@ -1,0 +1,10 @@
+C:\Users\João Paulo Silva\Desktop\Trab_Processamento_Imagens\Projeto1\bin\Debug\Projeto1.exe.config
+C:\Users\João Paulo Silva\Desktop\Trab_Processamento_Imagens\Projeto1\bin\Debug\Projeto1.exe
+C:\Users\João Paulo Silva\Desktop\Trab_Processamento_Imagens\Projeto1\bin\Debug\Projeto1.pdb
+C:\Users\João Paulo Silva\Desktop\Trab_Processamento_Imagens\Projeto1\obj\Debug\Trabalho.csprojAssemblyReference.cache
+C:\Users\João Paulo Silva\Desktop\Trab_Processamento_Imagens\Projeto1\obj\Debug\Projeto1.frmImage.resources
+C:\Users\João Paulo Silva\Desktop\Trab_Processamento_Imagens\Projeto1\obj\Debug\Projeto1.Properties.Resources.resources
+C:\Users\João Paulo Silva\Desktop\Trab_Processamento_Imagens\Projeto1\obj\Debug\Trabalho.csproj.GenerateResource.cache
+C:\Users\João Paulo Silva\Desktop\Trab_Processamento_Imagens\Projeto1\obj\Debug\Trabalho.csproj.CoreCompileInputs.cache
+C:\Users\João Paulo Silva\Desktop\Trab_Processamento_Imagens\Projeto1\obj\Debug\Projeto1.exe
+C:\Users\João Paulo Silva\Desktop\Trab_Processamento_Imagens\Projeto1\obj\Debug\Projeto1.pdb
